@@ -57,9 +57,9 @@ Some other evaluation options `--yh --use_model_gau --threshold` can be adjusted
 ### Results
 
 <div align="center">
-  <img src="https://github.com/Wangt-CN/gcm-cf/blob/master/osr/images/Visualization.png" width="1000px" />
+  <img src="https://github.com/Wangt-CN/gcm-cf/blob/main/osr/images/Visualization.png" width="1000px" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Wangt-CN/gcm-cf/blob/master/osr/images/Results.png" width="600px" />
+  <img src="https://github.com/Wangt-CN/gcm-cf/blob/main/osr/images/Results.png" width="600px" />
 </div>
