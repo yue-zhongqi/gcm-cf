@@ -17,7 +17,7 @@ For technical details, please refer to:
 **IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021** <br />
 
 <div align="center">
-  <img src="https://github.com/Wangt-CN/gcm-cf/blob/main/osr/images/GCM_CF.png" width="600px" />
+  <img src="https://github.com/Wangt-CN/gcm-cf/blob/main/osr/images/GCM_CF.png" width="500px" />
 </div>
 
 ## Usage
